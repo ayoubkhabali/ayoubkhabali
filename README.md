@@ -6,8 +6,10 @@ I am a passionate computer science student at FSTT, enthusiastic about exploring
 - **Web Development:**
   - Laravel
   - Django
-  - Flutter
   - HTML, CSS, JavaScript
+  - PHP
+  - MySQL
+  - Bootstrap, JQuery
 
 - **Programming Languages:**
   - C++
