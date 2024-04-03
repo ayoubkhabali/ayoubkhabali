@@ -34,6 +34,6 @@ Apart from coding, I enjoy:
 - Learning about the latest technologies shaping the tech industry.
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ayoubkhabali/)
+- LinkedIn: [ayoub khabali](https://www.linkedin.com/in/ayoubkhabali/)
 
 Feel free to explore my repositories and connect with me. Let's code and learn together! 🚀
