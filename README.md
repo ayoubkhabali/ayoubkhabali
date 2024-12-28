@@ -1,39 +1,87 @@
-# Hello, I'm Ayoub Khabali! 👋
+# <div align="center">👨‍💻 Hello World! I'm AYOUB KHABALI</div>
 
-I am a passionate computer science student at FSTT, enthusiastic about exploring and learning various programming languages and frameworks. My journey in the world of technology has led me to dive into both web development and software engineering.
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-## 🚀 Technologies & Tools
-- **Web Development:**
-  - Laravel
-  - Django
-  - HTML, CSS, JavaScript
-  - PHP
-  - MySQL
-  - Bootstrap, JQuery
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Passionate+about+coding)](https://git.io/typing-svg)
+  
+</div>
 
-- **Programming Languages:**
-  - C++
-  - Java
-  - Python
-  - Dart
+---
 
-## 💼 Experience
-- **Web Development:**
-  - Laravel: [Full-Stack FSTT / [Link](https://github.com/ayoubkhabali/Laravel-Project)]
-  - Django: Working On it...
-  - Other web development projects showcasing my skills and creativity.
+### 🧙‍♂️ About Me :
 
-- **Software Engineering:**
-  - C++: [Moroccan Cards game using Qt Framework /[Link](https://github.com/ayoubkhabali/Ronda)]
+I'm a passionate developer from Morocco 🇲🇦
 
+- 🔭 I'm currently working on innovative web applications
+- 🌱 I'm constantly learning and exploring new technologies
+- ⚡ In my free time, I solve problems on coding platforms and read tech articles
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AYOUB-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
-## 🌱 Interests
-Apart from coding, I enjoy:
-- Exploring new programming languages and frameworks.
-- Engaging in open-source contributions.
-- Learning about the latest technologies shaping the tech industry.
+---
 
-## 📫 Connect with Me
-- LinkedIn: [ayoub khabali](https://www.linkedin.com/in/ayoubkhabali/)
+### 🛠️ Languages and Tools :
 
-Feel free to explore my repositories and connect with me. Let's code and learn together! 🚀
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 🔥 My Stats :
+
+<div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+---
+
+### 🏆 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/YOURUSERNAME/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=project1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/YOURUSERNAME/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=project2&theme=tokyonight" />
+  </a>
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<div align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="YOUR_TWITTER_URL">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&color=blue" alt=""/>
+  
+  ### Show some ❤️ by starring some of the repositories!
+  
+  ![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
+</div>
