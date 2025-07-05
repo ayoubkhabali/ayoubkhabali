@@ -12,9 +12,9 @@
 
 ---
 
-### 🧙‍♂️ About Me :
+### 🧙‍♂️ About Me  :
 
-I'm a passionate developer from Morocco 🇲🇦
+I'm a passionate developer from Tangier, Morocco
 
 - 🔭 I'm currently working on innovative web applications
 - 🌱 I'm constantly learning and exploring new technologies
