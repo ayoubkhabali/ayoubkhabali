@@ -12,7 +12,7 @@
  
 --
 # 💫 About Me:
-🎓 Student in AI and Data Science<br>🔬 Specializing in machine learning algorithms, Full-Stack developments<br>⚙️ Passionate about developing end-to-end data solutions that solve real-world problems<br>🌐 Building scalable web applications powered by data science<br>🚀 Constantly exploring new technologies to enhance data processing capabilities
+🎓 Student in AI and Data Science<br>🔬 Specializing in machine learning algorithms, Full-Stack development<br>⚙️ Passionate about developing end-to-end data solutions that solve real-world problems<br>🌐 Building scalable web applications powered by data science<br>🚀 Constantly exploring new technologies to enhance data processing capabilities
 
 
 # 💻 Tech Stack:
